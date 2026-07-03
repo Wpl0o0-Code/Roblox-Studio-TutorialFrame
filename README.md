@@ -16,7 +16,7 @@ Tutorial:targetGui({
 
 ## DeleteOutline Code:
 ```lua
-	Tutorial.deleteOutline(Gui["Button1"])
+Tutorial.deleteOutline(Gui["Button1"])
 ```
 
 ## Example Code Button:
