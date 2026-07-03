@@ -1,7 +1,7 @@
 # Roblox-Studio-TutorialFrame
--- You can use it on Roblox Studio
--- Add TutorialLibray to your game ReplicatedStorage
--- TutorialLibrary_2 need parent to TutorialLibray
+- You can use it on Roblox Studio
+- Add TutorialLibray to your game ReplicatedStorage
+- TutorialLibrary_2 need parent to TutorialLibray
 
 ## Use Example:
 ```lua
